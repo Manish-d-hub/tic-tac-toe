@@ -22,5 +22,5 @@ $ npm run server
 ### Make two separate terminals for clients and run the following commmand
 
 ```bash
-$ npm run server
+$ npm run client
 ```
